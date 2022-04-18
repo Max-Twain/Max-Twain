@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Max-Twain
+- 👋 Hi, I’m @SafeAreaView
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JS & React
 - 📫 How to reach me
