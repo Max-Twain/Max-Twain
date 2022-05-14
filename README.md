@@ -4,7 +4,6 @@
 - 📫 How to reach me
 -  @SafeAreaView - telegram 
 -  SafeAreaView@gmail.com - gmail
-CV (in Ukraine) - https://www.work.ua/jobseeker/my/resumes/view/?id=8123805
 
 <!---
 Max-Twain/Max-Twain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
