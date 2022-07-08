@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SafeAreaView
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JS & React
+- 🌱 I’m currently learning JS 
 - 📫 How to reach me
 -  @SafeAreaView - telegram 
 -  SafeAreaView@gmail.com - gmail
